@@ -1,4 +1,4 @@
-# Reg no:212222110056
+# Reg no:212222100046
 
 # Enumeration
 Enumeration Techniques
@@ -62,13 +62,14 @@ This operator allows you to search for pages that contain specific text within t
 
 ### intitle: 
 This operator allows you to search for pages that contain specific text within the title tag. For example, "intitle:index of" would search for pages that contain "index of" within the title tag.
-![Screenshot (118)](https://github.com/user-attachments/assets/a782ad38-ff3b-47a4-b259-eed3d9124922)
+![Screenshot (120)](https://github.com/user-attachments/assets/d4678dd8-a8c6-4a33-9cab-f7cd008057d2)
+
 
 
 
 ### link: 
 This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
-![Screenshot (118)](https://github.com/user-attachments/assets/8ec4fed6-758b-436f-abf2-8d05b7d83024)
+![Screenshot (118)](https://github.com/user-attachments/assets/a782ad38-ff3b-47a4-b259-eed3d9124922)
 
 
 
